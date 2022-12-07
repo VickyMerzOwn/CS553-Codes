@@ -9,6 +9,7 @@ k3 = hex2bin("a55f")
 k4 = hex2bin("ecbd")
 k5 = hex2bin("7ca5")
 
+#print("hello")
 # print(type(k0))
 
 sypher_m0 = Sypher004(k0, k1, k2, k3, k4, k5)
