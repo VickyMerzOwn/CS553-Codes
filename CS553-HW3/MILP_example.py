@@ -3,7 +3,7 @@ from gurobipy import GRB
 
 # initialize a model
 m = gp.Model("MILP_example")
-
+# Comment
 # add variables in the model 
 x0 = m.addVar(vtype=GRB.BINARY, name="x0")
 x1 = m.addVar(vtype=GRB.BINARY, name="x1")
