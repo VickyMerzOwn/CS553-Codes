@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T04:56:50.937Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="CjEN9KwEgcbzIUobR1nv" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T05:00:18.114Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="Vm3FanXIex5KRhaFNuqX" version="20.8.20" type="github">
   <diagram name="Page-1" id="vRhuliPIz6gtvqGjKDqa">
     <mxGraphModel dx="2133" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,11 @@
         <mxCell id="1" parent="0" />
         <mxCell id="ieoLBsuvX7PxbXdkCon5-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieoLBsuvX7PxbXdkCon5-28" target="ieoLBsuvX7PxbXdkCon5-49">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieoLBsuvX7PxbXdkCon5-416" value="Sub Bytes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ieoLBsuvX7PxbXdkCon5-70">
+          <mxGeometry x="-0.0889" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ieoLBsuvX7PxbXdkCon5-28" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="110" height="110" as="geometry" />
@@ -105,6 +110,11 @@
         <mxCell id="ieoLBsuvX7PxbXdkCon5-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieoLBsuvX7PxbXdkCon5-49" target="ieoLBsuvX7PxbXdkCon5-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ieoLBsuvX7PxbXdkCon5-417" value="Shift Row" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ieoLBsuvX7PxbXdkCon5-92">
+          <mxGeometry x="0.1111" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ieoLBsuvX7PxbXdkCon5-49" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="110" height="110" as="geometry" />
         </mxCell>
@@ -203,6 +213,11 @@
         <mxCell id="ieoLBsuvX7PxbXdkCon5-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieoLBsuvX7PxbXdkCon5-71">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieoLBsuvX7PxbXdkCon5-418" value="Mix columns" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ieoLBsuvX7PxbXdkCon5-114">
+          <mxGeometry x="0.0667" relative="1" as="geometry">
+            <mxPoint x="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ieoLBsuvX7PxbXdkCon5-71" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
@@ -787,6 +802,11 @@
         <mxCell id="ieoLBsuvX7PxbXdkCon5-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieoLBsuvX7PxbXdkCon5-225" target="ieoLBsuvX7PxbXdkCon5-203">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ieoLBsuvX7PxbXdkCon5-415" value="Sub byte&lt;br&gt;(inverse)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ieoLBsuvX7PxbXdkCon5-202">
+          <mxGeometry x="-0.0222" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ieoLBsuvX7PxbXdkCon5-203" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="110" height="110" as="geometry" />
         </mxCell>
@@ -884,6 +904,11 @@
         </mxCell>
         <mxCell id="ieoLBsuvX7PxbXdkCon5-224" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieoLBsuvX7PxbXdkCon5-247" target="ieoLBsuvX7PxbXdkCon5-225">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieoLBsuvX7PxbXdkCon5-414" value="Shift Row&lt;br&gt;(inverse)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ieoLBsuvX7PxbXdkCon5-224">
+          <mxGeometry x="0.0222" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ieoLBsuvX7PxbXdkCon5-225" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="240" y="520" width="110" height="110" as="geometry" />
@@ -983,7 +1008,7 @@
         <mxCell id="ieoLBsuvX7PxbXdkCon5-246" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieoLBsuvX7PxbXdkCon5-268" target="ieoLBsuvX7PxbXdkCon5-247">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ieoLBsuvX7PxbXdkCon5-413" value="Mix&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ieoLBsuvX7PxbXdkCon5-246">
+        <mxCell id="ieoLBsuvX7PxbXdkCon5-413" value="Mix Column&lt;br&gt;(inverse)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ieoLBsuvX7PxbXdkCon5-246">
           <mxGeometry x="0.0222" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1585,6 +1610,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ieoLBsuvX7PxbXdkCon5-419" value="Add Round Key" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ieoLBsuvX7PxbXdkCon5-378">
+          <mxGeometry x="-0.0389" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ieoLBsuvX7PxbXdkCon5-380" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="767" y="340" as="sourcePoint" />
@@ -1623,6 +1653,20 @@
         <mxCell id="ieoLBsuvX7PxbXdkCon5-412" value="Sub Bytes&lt;br&gt;(inverse)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ieoLBsuvX7PxbXdkCon5-407">
           <mxGeometry x="0.1556" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieoLBsuvX7PxbXdkCon5-420" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="10" as="sourcePoint" />
+            <mxPoint x="40" y="96" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieoLBsuvX7PxbXdkCon5-421" value="ARK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ieoLBsuvX7PxbXdkCon5-420">
+          <mxGeometry x="-0.3492" y="-1" relative="1" as="geometry">
+            <mxPoint y="19" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
